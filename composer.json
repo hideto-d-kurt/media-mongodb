@@ -1,5 +1,5 @@
 {
-  "name": "spatie/laravel-medialibrary",
+  "name": "hideto-d-kurt/media-mongodb",
   "description": "Associate files with Eloquent models",
   "keywords": [
     "spatie",
@@ -9,9 +9,10 @@
     "images",
     "downloads",
     "cms",
-    "laravel"
+    "laravel",
+    "mongodb"
   ],
-  "homepage": "https://github.com/spatie/laravel-medialibrary",
+  "homepage": "https://github.com/hideto-d-kurt/media-mongodb",
   "license": "MIT",
   "authors": [
     {
